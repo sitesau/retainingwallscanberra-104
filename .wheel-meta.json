@@ -1,0 +1,22 @@
+{
+  "wheel_id": 484,
+  "structure": "umbrella",
+  "slug": "retainingwallscanberra-104",
+  "project": "retaining-wall-builders-canberra-pros-and-cons-a20821f85f4d7f2e",
+  "parent_t1_ref": "retainingwallscanberra-152",
+  "node_role": "feeder",
+  "money_target": "retainingwallscanberra.au",
+  "primary_kw": "retaining wall builders canberra pros and cons",
+  "intended_url": "https://sitesau.github.io/retainingwallscanberra-104/",
+  "tier": "T2",
+  "writeback_nonce": "85734c5b605d03e9",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-builders-canberra-checklist-5d18717668fef583c/",
+      "anchor": "retaining wall builders canberra checklist",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
